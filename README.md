@@ -8,22 +8,22 @@ This repository is maintained for:
 
 ## Projects Overview 📁
 
-###1. Calculator
+### 1. Calculator
 A simple arithmetic calculator that performs addition, subtraction, multiplication, division, and modulo operations.
 
 ---
 
-###2. Temperature Converter
+### 2. Temperature Converter
 Converts temperature values between Celsius, Fahrenheit, and Kelvin using user input.
 
 ---
 
-###3. Simple To-Do List
+### 3. Simple To-Do List
 A basic task manager implemented using arrays, allowing users to add, view, and remove tasks during runtime.
 
 ---
 
-###4. Simple ATM Menu
+### 4. Simple ATM Menu
 A menu-driven ATM simulation that allows users to deposit, withdraw, and check balance using basic control structures.
 
 ---
