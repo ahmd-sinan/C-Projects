@@ -26,5 +26,10 @@ This repository is maintained for:
 - **Number Guessing Game** :
 
   A console-based game where the user guesses a randomly generated number with hints for higher or lower guesses.
+  
+| Projects | Description |
+| :---| :--- |
+| **Calculator** | A simple arithmetic calculator that performs addition, subtraction, multiplication, division, and modulo operations. |
+| **Temperature Converter** | Converts temperature values between Celsius, Fahrenheit, and Kelvin using user input. |
 
  *(More coming soon...)*
