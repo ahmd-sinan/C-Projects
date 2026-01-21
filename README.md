@@ -28,7 +28,7 @@ A menu-driven ATM simulation that allows users to deposit, withdraw, and check b
 
 ---
 
-###5. Number Guessing Game
+### 5. Number Guessing Game
 A console-based game where the user guesses a randomly generated number with hints for higher or lower guesses.
 
 ---
