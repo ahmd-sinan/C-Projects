@@ -1,4 +1,4 @@
-# C-Projects !!
+# C-Projects 
 This repo contains basic and small C programs I built while learning the language. Projects are intentionally small and focused — perfect for practicing fundamentals (variables, loops, conditionals, functions, arrays, pointers basics, etc.)
 
 ## Purpose 🎯
