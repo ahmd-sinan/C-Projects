@@ -18,4 +18,3 @@ This repository is maintained for:
 | 6 | **Number Guessing Game** | A console-based game where the user guesses a randomly generated number with hints for higher or lower guesses |
 
  *(More coming soon...)*
-*
