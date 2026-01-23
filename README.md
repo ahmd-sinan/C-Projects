@@ -6,7 +6,7 @@ This repository is maintained for:
 - Practicing C programming fundamentals  
 - Sharing beginner-friendly projects
 
-## Projects Overview 📁
+## ProjectsOverview 📁
   
 | No. |  Projects | Description |
 | :---| :--- | :--- |
