@@ -17,4 +17,4 @@ This repository is maintained for:
 | 5 | **Simple To-Do List** | A basic task manager implemented using arrays, allowing users to add, view, and remove tasks during runtime |
 | 6 | **Number Guessing Game** | A console-based game where the user guesses a randomly generated number with hints for higher or lower guesses |
 
- *(More coming soon...)*
+ *(More coming soon...)*!!
