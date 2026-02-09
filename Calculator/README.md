@@ -18,4 +18,14 @@ It then performs the selected operation and displays the result.
 ```bash
 gcc calculator.c -o calculator
 ./calculator
+```
 
+## Concepts Used
+- Variables and data types
+- switch statement
+- User input using scanf
+- Arithmetic operators
+- Basic control flow
+
+## Learning Outcome
+This project helped me understand how menu-driven programs work in C and improved my confidence with conditional logic and user input handling.
