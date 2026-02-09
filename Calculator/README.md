@@ -7,7 +7,6 @@ A simple console-based calculator program written in C that performs basic arith
 - Subtraction
 - Multiplication
 - Division
-- Modulo operation
 - User-friendly menu-driven interface
 
 ## How It Works
