@@ -34,7 +34,7 @@ gcc temperature_converter.c -o temp_converter
 - Mathematical formulas
 
 ## Learning Outcome
-- This project helped me understand how to:
+This project helped me understand how to:
 - Break logic into reusable functions
-- Work with real-world formulas
+- Work with real-worl formulas
 - Build clean, menu-driven programs in C
