@@ -38,14 +38,14 @@ int main() {
             printf("Enter temperature in Celsius: ");
             scanf("%f", &temp);
             result = celsiusToFahrenheit(temp);
-            printf("Result: %.2f °F\n", result);
+            printf("Result: %.2f F\n", result);
             break;
 
         case 2:
             printf("Enter temperature in Fahrenheit: ");
             scanf("%f", &temp);
             result = fahrenheitToCelsius(temp);
-            printf("Result: %.2f °C\n", result);
+            printf("Result: %.2f C\n", result);
             break;
 
         case 3:
@@ -59,7 +59,7 @@ int main() {
             printf("Enter temperature in Kelvin: ");
             scanf("%f", &temp);
             result = kelvinToCelsius(temp);
-            printf("Result: %.2f °C\n", result);
+            printf("Result: %.2f C\n", result);
             break;
 
         default:
@@ -68,3 +68,4 @@ int main() {
 
     return 0;
 }
+
