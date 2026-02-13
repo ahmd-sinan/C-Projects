@@ -34,3 +34,10 @@ gcc student_grade_calculator.c -o grade_calculator
 * Conditional statements
 * Floating-point arithmetic
 * User input handling
+
+## Learning Outcome
+This project helped me understand:
+* Passing arrays to functions
+* Separating logic using functions
+* Implementing real-world grading logic
+* Writing clean and readable C programs
