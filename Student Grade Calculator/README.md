@@ -26,3 +26,11 @@ A simple C program that calculates the average marks of a student and assigns a 
 gcc student_grade_calculator.c -o grade_calculator
 ./grade_calculator
 ```
+
+## Concepts Used
+* Arrays
+* Functions
+* Loops
+* Conditional statements
+* Floating-point arithmetic
+* User input handling
