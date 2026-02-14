@@ -31,3 +31,8 @@ A simple Password Strength Checker built using C language to evaluate how strong
 - `strcmp()` for detecting common passwords
 - Loops & conditional logic
 
+## How to Run
+```bash
+gcc password_checker.c -o password_checker
+./password_checker
+```
