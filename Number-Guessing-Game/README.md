@@ -3,7 +3,7 @@
 A simple and interactive command-line Number Guessing Game written in C.
 
 ## Demo
-![Live Demo](Number Guessing Game/assets/Number Guessing Game.gif)
+![Live Demo](Number-Guessing-Game/assets/Number_Guessing_Game.gif)
 
 ## Description
 This program randomly generates a secret number between 1 and 100. The player's objective is to guess the secret number. After each attempt, the game provides feedback, indicating whether the guess was "Too High!" or "Too Low!". The game continues until the player successfully guesses the number, after which it displays the total number of attempts taken.
