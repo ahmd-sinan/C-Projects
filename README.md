@@ -4,7 +4,7 @@ This repo contains basic and small C programs I built while learning the languag
 ## Purpose 🎯
 This repository is maintained for: 
 - Practicing C programming fundamentals.
-- Sharing beginner-friendly projects.cprojr
+- Sharing beginner-friendly projects.
 
 ## Projects Overview 📁
   
