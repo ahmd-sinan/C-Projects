@@ -28,7 +28,7 @@ atm.exe
 ```
 
 ## 💻 Example Output Demo
-![Demo](Simple-ATM-Menu/Output_ATM_Menu.png)
+![Demo](Output_ATM_Menu.png)
 
 ## 👨‍💻 Author
 Ahamed Sinan
