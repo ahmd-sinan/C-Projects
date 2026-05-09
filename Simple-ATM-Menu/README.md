@@ -27,29 +27,8 @@ gcc simple_ATM_menu.c -o atm
 atm.exe
 ```
 
-## 💻 Example Output
-```Plaintext
-=========ATM MENU=========
-1.Check Balance
-2.Deposit Money
-3.Withdraw Money
-4.Exit
-=========================
-
-Enter your choice: 1
-Your current balance is: $1000.00
-
-=========ATM MENU=========
-1.Check Balance
-2.Deposit Money
-3.Withdraw Money
-4.Exit
-=========================
-
-Enter your choice: 3
-Enter amount to withdraw: 250
-Successfully withdraw $250.00
-```
+## 💻 Example Output Demo
+![Demo](Simple-ATM-Menu/Output_ATM_Menu.png)
 
 ## 👨‍💻 Author
 Ahamed Sinan
