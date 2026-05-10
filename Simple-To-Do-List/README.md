@@ -1,12 +1,12 @@
 # Simple To-Do List
-A lightweight, console-based To-Do List application written in C. This program allows users to seamlessly manage their daily tasks directly from the terminal. 
-It demonstrates core C programming concepts, including 2D arrays, string manipulation (strcpy, strcspn), loop control, and proper input buffer handling.
+A lightweight, console-based simple To-Do List application written in C. This program allows users to seamlessly manage their daily tasks directly from the terminal. 
+It demonstrates core C programming concepts, including 2D arrays, string manipulation (`strcpy`, `strcspn`), loop control, and proper input buffer handling.
 
 ## Features
-Add Tasks: Quickly add new tasks to your list (supports up to 50 active tasks).
-View Tasks: Display all current tasks with their corresponding item numbers.
-Delete Tasks: Remove completed tasks by their number. The list automatically shifts to fill the gap, keeping your list organized!
-Robust Input Handling: Gracefully handles leftover newline characters in the input buffer using getchar(), preventing infinite loops or skipped inputs.
+* **Add Tasks:** Quickly add new tasks to your list (supports up to 50 active tasks).
+* **View Tasks:** Display all current tasks with their corresponding item numbers.
+* **Delete Tasks:** Remove completed tasks by their number. The list automatically shifts to fill the gap, keeping your list organized!
+* **Robust Input Handling:** Gracefully handles leftover newline characters in the input buffer using `getchar()`, preventing infinite loops or skipped inputs.
 
 ## How to Compile and Run
 Clone or Download the repository to your local machine.
